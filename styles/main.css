@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+form{
+
+    background-color: rgb(86, 161, 184);
+    border: 2px;
+    width: 300px;
+    padding: 150px;
+    text-align: center;
+    border-radius: 4px;
+    position: absolute;
+    left: 27%;
+    top: 25%;
+}
+
+.elemento-sozinho {
+    display: block;
+    margin-bottom: 14px;
+    width: 100%;
+}
+
+button :hover{
+    background-color:  rgb(63, 119, 136);
+    border: 1px;
+    border-radius: 4px;
+
+    padding-top: 7px;
+    padding-top: 7;  
+
+}
+
+.input_nome, .input_email, .input_password, .input_data{
+    border-radius: 4px;
+    margin-bottom: 5px;
+    width: 200px;
+    
+}
+
