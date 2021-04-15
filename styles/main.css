@@ -31,7 +31,7 @@ button :hover{
 
 }
 
-.input_nome, .input_email, .input_password, .input_data{
+.input_nome, .input_email, .input_password, .input_data, .input_password, .input_login{
     border-radius: 4px;
     margin-bottom: 5px;
     width: 200px;
